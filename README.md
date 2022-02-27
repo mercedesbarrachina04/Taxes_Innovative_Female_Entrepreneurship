@@ -1,0 +1,3 @@
+# Taxes_Innovative_Female_Entrepreneurship
+
+Este estudio se centra en evaluar el efecto de los impuestos y los costes empresariales en las actividades empresariales innovadoras de las mujeres. Este análisis se ha realizado utilizando los datos de diferentes bases de datos: Global Entrepreneurship Monitor (GEM), Organización para la Cooperación y el Desarrollo Económicos (OCDE) y las bases de datos Doing Business del Banco Mundial (WBDB) y el período analizado fue el 2011-2015, siendo el ámbito de estudio los países de la OCDE. El objetivo principal es proponer argumentos en la discusión sobre cómo las regulaciones, los impuestos y los costes comerciales pueden influir en el espíritu empresarial innovador femenino.
